@@ -19,3 +19,8 @@ This is a simple web application built with HTML, CSS, JavaScript, and Bootstrap
   - The spinner disappears.
   - The app displays the results, each consisting of the article title, URL, and description.
 - If the user presses "Enter" without typing anything, no search is performed.
+
+## Key Files:
+wik.html: The main HTML file that holds the structure of the app.
+wik.css: The stylesheet that defines the custom design for the app.
+wik.js: The JavaScript file containing all the logic for interacting with the Wikipedia API and rendering search results.
