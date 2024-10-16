@@ -6,10 +6,9 @@ This is a simple web application built with HTML, CSS, JavaScript, and Bootstrap
 ->Responsive Design: Built using Bootstrap 4 for a clean, responsive layout.<br>
 ->Loading Spinner: Shows a spinner while fetching results from the API.<br>
 ->Displays search results with:  
-
-   --Article title (linked to the Wikipedia page)<br>
-   --URL of the article<br>
-   --A brief description<br>
+   -Article title (linked to the Wikipedia page)<br>
+   -URL of the article<br>
+   -A brief description<br>
 
 <h2>How It Works</h2>
 ->The user types a keyword in the search input field.<br>
