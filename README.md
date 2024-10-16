@@ -1,7 +1,7 @@
 # Wikipedia_Search_Application
 This is a simple web application built with HTML, CSS, JavaScript, and Bootstrap. It allows users to search for Wikipedia articles using an external API and displays the search results with article titles, URLs, and descriptions.
 
-## Features
+<h2>Features</h2>
 - **Search Wikipedia Articles**: Users can type a keyword and press "Enter" to search for relevant Wikipedia articles.
 - **Responsive Design**: Built using Bootstrap 4 for a clean, responsive layout.
 - **Loading Spinner**: Shows a spinner while fetching results from the API.
